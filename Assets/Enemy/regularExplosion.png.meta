@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: f64c8113dbd061944ac45ae2d564e813
+timeCreated: 1444471581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: regularExplosion_0
+    21300002: regularExplosion_1
+    21300004: regularExplosion_2
+    21300006: regularExplosion_3
+    21300008: regularExplosion_4
+    21300010: regularExplosion_5
+    21300012: regularExplosion_6
+    21300014: regularExplosion_7
+    21300016: regularExplosion_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: regularExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 341
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 367
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 363
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 350
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 343
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 153
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: regularExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 157
+        width: 149
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
